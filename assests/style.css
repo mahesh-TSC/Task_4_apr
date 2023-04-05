@@ -1,0 +1,9 @@
+.cont {
+    font-family: cursive;
+    margin: 10% auto;
+    width: 52%;
+    border-radius: 28px ;
+    padding: 2%;
+    background: antiquewhite;
+    min-height: 263px;
+}
